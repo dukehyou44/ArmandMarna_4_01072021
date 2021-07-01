@@ -16,6 +16,9 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
+.keywords {
+    display: none;
+}
 
 #page-loading-blocs-notifaction {
     position: fixed;
@@ -675,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    color: black;
 }
 
 .tight-width-whitespace {
